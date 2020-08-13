@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>Hooks State</h1>
+      <h1>Reducer</h1>
     </div>
   );
 }
